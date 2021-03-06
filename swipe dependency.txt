@@ -1,0 +1,6 @@
+  //manjinderSir
+    implementation 'com.github.manjhi:util_repo:0.1.2'
+
+
+   //swipe button
+    implementation 'in.shadowfax:proswipebutton:1.2.2'
